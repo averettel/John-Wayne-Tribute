@@ -4,7 +4,7 @@
 
 <body
 	<h1> John Wayne </h1>
-<img src="https://pbs.twimg.com/profile_images/1062419703031783425/S2IO_9AE_400x400.jpg"  width="32" height="32">
+<img src="https://pbs.twimg.com/profile_images/1062419703031783425/S2IO_9AE_400x400.jpg"  style="width:300px;">
 </head>
 <p>John Wayne was a famous American actor who was the main actor in western movies and war movies. John Wayne's nickname was "The Duke" which he 
 was named that after spending lots of time with his childhood dog. The Duke was very smart in school and grew up in Iowa and then moved to California
